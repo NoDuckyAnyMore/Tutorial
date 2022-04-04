@@ -12,6 +12,8 @@ rostopic echo /visualization_marker
 
 /usb_cam/image_raw
 
+new
+
 
 
 
